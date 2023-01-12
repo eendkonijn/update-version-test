@@ -1,0 +1,10 @@
+{
+  "name": "update-version-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "eendkonijn",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.8.0"
+  }
+}
