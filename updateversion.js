@@ -7,7 +7,7 @@ const packageName = "webpack";
 
 console.log("Updating package:", packageName, ", version:", version);
 
-//1. Update the-one/package.json
+//Read data
 const data = fs.readFileSync("./package.json", {
   encoding: "utf8",
 });
